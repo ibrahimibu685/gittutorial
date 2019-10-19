@@ -2,4 +2,5 @@
 2-mango.
 3-orange.
 4-pech.
-5-nactarine
+5-nactarine.
+6-palm.
